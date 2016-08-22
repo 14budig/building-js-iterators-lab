@@ -2,6 +2,12 @@
  location: SF
 -->
 
+Name: Nicolas Budig
+Original Repo: https://github.com/sf-wdi-31/building-js-iterators-lab/
+
+Thoughts: This was a good exercise, I had some trouble with Reduce though.  I admit I did have to look at making the initial value work right.  I guess part of it is that I still don't understand all the uses of reduce.
+
+
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
 # Building Iterator Methods
