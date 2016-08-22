@@ -2,8 +2,11 @@
 
 function myMap(arr, callback) {
 
-//  CODE INSIDE HERE   //
-
+  var output = [];
+  for (var i = 0; i < arr.length; i++){
+    output.push(callback(arr[i], i, arr));
+  }
+  return output;
 }
 
 
